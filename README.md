@@ -243,3 +243,6 @@ This repository serves as the official landing page for Todoist. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Todoist today!**
+
+---
+**Last updated:** 2026-09-11 09:20:34 UTC
