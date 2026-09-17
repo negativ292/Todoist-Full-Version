@@ -245,4 +245,4 @@ This repository serves as the official landing page for Todoist. The software is
 **Get the most recent version of Todoist today!**
 
 ---
-**Last updated:** 2026-09-17 14:39:00 UTC
+**Last updated:** 2026-09-17 18:47:09 UTC
